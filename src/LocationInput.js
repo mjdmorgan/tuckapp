@@ -37,7 +37,7 @@ export default class LocationInput extends React.Component {
           <div className="location-input-wrap">
             <input
               {...getInputProps({
-                placeholder: 'Enter an address',
+                placeholder: 'Enter Location',
                 className: 'location-search-input',
                 autoCorrect: 'off',
                 spellCheck: 'false',
